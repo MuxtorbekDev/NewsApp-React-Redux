@@ -1,0 +1,29 @@
+{
+  "news": [{
+      "id": 1,
+      "name": "Western leaders to unite for Ukraine",
+      "description": "Mr Biden will take part in all three, the first ever visit by a US president to an EU summit in Brussels. But his visit to Brussels is not just about symbolism. \n Russia's invasion of Ukraine has given the Western defensive alliance Nato a renewed sense of purpose. \n And as the EU attempts to sever energy ties with Russia, it needs to forge and reinforce other relationships, particularly with the US.",
+      "category": "Hot News"
+    },
+    {
+      "id": 2,
+      "name": "Southampton goalkeeper Fraser Forster called up to England squad for friendlies",
+      "description": "Forster, 34, won the last of his six England caps in 2016. \n Gareth Southgate's side host Switzerland on Saturday before taking on Ivory Coast on Tuesday with both friendly games at Wembley. \n Forster joins Southampton team-mates James Ward-Prowse and Kyle Walker-Peters in the squad.",
+      "category": "Sport News"
+    },
+    {
+      "id": 3,
+      "name": "Manchester United speak to Ajax coach about manager's job",
+      "description": "Sevilla coach Julen Lopetegui also has his admirers at United, as does Spain coach Luis Enrique, although the likelihood of him agreeing to take a club job before the World Cup later this year is thought to be slim. \n United are monitoring the situation at Chelsea, although German manager Thomas Tuchel has given no indication publicly he is thinking about walking out on the Blues, despite their present predicament with owner Roman Abramovich sanctioned and the club up for sale.",
+      "category": "Sport News"
+    },
+    {
+      "id": 4,
+      "name": "How access to satellite images shifts the view of war",
+      "description": "Since early last year, he and others among what's known as the \"open source intelligence community\" have been closely watching Russian military activity in and around Ukraine. \n He bought and shared from the account satellite images from online service SkyWatch, which reportedly showed the massing of vehicles along the Russia-Ukraine border over many months - and then, the moment when the invasion began.",
+      "category": "World News"
+    }
+
+  ],
+  "filters": ["all", "hot", "sport", "world"]
+}

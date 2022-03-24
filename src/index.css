@@ -1,3 +1,5 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +12,32 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  height: 100vh;
+  overflow-y: scroll;
+  background: url("./assest/3386851.jpg") center / cover no-repeat;
+  color: #fff;
+}
+
+.content {
+  /* display: grid;
+  grid-template-columns: 55% 45%; */
+  display: flex;
+  max-width: 720px;
+  margin: 0 auto;
+  padding-top: 50px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.content_Page {
+  width: 45%;
 }
