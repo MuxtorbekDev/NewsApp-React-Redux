@@ -1,6 +1,6 @@
 import React from "react";
 
-function NewsListItem({ news, description, category }) {
+function NewsListItem({ name, description, category }) {
   let elementClassName;
 
   switch (category) {
@@ -8,7 +8,7 @@ function NewsListItem({ news, description, category }) {
       elementClassName = "bg-danger bg-gradient";
       break;
     case "Sport News":
-      elementClassName = "bg-primary bg-gradient";
+      elementClassName = "bg-warning bg-gradient";
       break;
     case "World News":
       elementClassName = "bg-secondary bg-gradient";
@@ -18,8 +18,20 @@ function NewsListItem({ news, description, category }) {
   }
 
   return (
-    <li className={`card flex-row shadow-lg text-white ${elementClassName}`}>
-      <img src="../assest/download.jpg" />
+    <li className={`card ${elementClassName}`}>
+      <img
+        src="https://www.mca.gov.in/content/dam/mca/images/latest_news_image.jpg"
+        alt="img"
+        className=" "
+        style={{ objectFit: "cober" }}
+      />
+      <div className="text-box">
+        <h4 className="card-title fs-5">{name}</h4>
+        <p className="card-title fs-6">{description}</p>
+      </div>
+      <span className="position-absolute top-0 start-100 translate-middle badge border bg-light rounded-bill">
+        <button type="button" className="btn-close" aria-label="Close"></button>
+      </span>
     </li>
   );
 }
