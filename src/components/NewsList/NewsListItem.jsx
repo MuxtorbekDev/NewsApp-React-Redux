@@ -1,6 +1,6 @@
 import React from "react";
 
-function NewsListItem({ name, description, category }) {
+function NewsListItem({ name, description, category, onDelete }) {
   let elementClassName;
 
   switch (category) {
@@ -30,7 +30,12 @@ function NewsListItem({ name, description, category }) {
         <p className="card-title fs-6">{description}</p>
       </div>
       <span className="position-absolute top-0 start-100 translate-middle badge border bg-light rounded-bill">
-        <button type="button" className="btn-close" aria-label="Close"></button>
+        <button
+          onClick={onDelete}
+          type="button"
+          className="btn-close"
+          aria-label="Close"
+        ></button>
       </span>
     </li>
   );

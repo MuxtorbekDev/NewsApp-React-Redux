@@ -1,10 +1,5 @@
 {
-  "news": [{
-      "id": 1,
-      "name": "Western leaders to unite for Ukraine",
-      "description": "Mr Biden will take part in all three, the first ever visit by a US president to an EU summit in Brussels. But his visit to Brussels is not just about symbolism. \n Russia's invasion of Ukraine has given the Western defensive alliance Nato a renewed sense of purpose. \n And as the EU attempts to sever energy ties with Russia, it needs to forge and reinforce other relationships, particularly with the US.",
-      "category": "Hot News"
-    },
+  "news": [
     {
       "id": 2,
       "name": "Southampton goalkeeper Fraser Forster called up to England squad for friendlies",
@@ -18,12 +13,62 @@
       "category": "Sport News"
     },
     {
-      "id": 4,
-      "name": "How access to satellite images shifts the view of war",
-      "description": "Since early last year, he and others among what's known as the \"open source intelligence community\" have been closely watching Russian military activity in and around Ukraine. \n He bought and shared from the account satellite images from online service SkyWatch, which reportedly showed the massing of vehicles along the Russia-Ukraine border over many months - and then, the moment when the invasion began.",
+      "id": "1188b903-5f51-4b7b-87d1-df0dd21aa8d8",
+      "name": "Zelenskiy yordam so‘radi, G‘arb yordam va’da qildi. Urushning 29-kuni yakunlari",
+      "description": "Payshanba kuni Rossiya Ukrainada harbiy harakatlar boshlaganiga bir oy to‘ldi. Bu vaqt mobaynida rossiyaliklar armiyasi qo‘shni mamlakatdagi biror yirik shaharni egallay olmadi. Egallab olingan kam sonli shaharlardan biri - Berdyanskda - Ukraina harbiy-dengiz kuchlari Rossiyaning yirik desant korablini cho‘ktirganini ma’lum qildi.\n",
       "category": "World News"
+    },
+    {
+      "id": "a827a8b9-f83d-4334-9039-b1acb104992f",
+      "name": "Rossiya harbiy xizmatchilari Ukrainadagi Chernobil atom elektr stansiyasini tark eta boshladi. Bu haqda ismi oshkor etilmagan amerikalik harbiy amaldorga tayanib, “France 24” xabar bergan. ",
+      "description": "Joriy yilning 21 fevral kuni Rossiya Prezidenti Vladimir Putin Kremlda Ukraina sharqidagi o‘zini mustaqil deb e’lon qilgan Lugansk xalq respublikasi (LXR) va Donetsk xalq respublikasini (DXR) tan olish to‘g‘risidagi farmonni imzoladi. Keyinroq RF respublikalarni shu nomdagi viloyatlar chegarasida tan olganini ta’kidlab, Ukrainaga qarshi urush xavfini oshirib yubordi.\n\nPutinning favqulodda qarori ortidan AQSH, YeI, Kanada, Avstraliya, Buyuk Britaniya va Yaponiya rasmiylari ham Rossiyaga qarshi sanksiyalar kiritdi.\n\n24 fevral kuni Rossiya Prezidenti Vladimir Putin Ukraina sharqida Donbassda rus harbiylari \"maxsus harbiy operatsiya\" boshlaganini e’lon qildi va rus qo‘shinlari Ukrainaga hujum boshladi. Putin bu harakatini Ukraina sharqidagi rossiyaparast separatist kuchlar rahbarlari shunday so‘rov yuborgani bilan oqladi.",
+      "category": "World News"
+    },
+    {
+      "id": "6978888e-d98d-4bb0-8819-151a27c98c38",
+      "name": "O‘zbekistonga Rossiyadan sovuq havo oqimi kirib keladi",
+      "description": "Bugun kechga tomon va ertaga antitsiklon kirib kelishi O‘zbekistonning barcha hududlariga tarqaladi. Respublika hududlari bo‘yicha (shimol va chekka janubdan tashqari) ba’zi joylarda biroz yomg‘ir yog‘adi, tog‘ oldi va tog‘li hududlarda yog‘ingarchilik (yomg‘ir, qor) bo‘ladi, ayrim joylarda shamol tezligi 18-23 m/s gacha kuchayishi kutilmoqda. Sovuq front o‘tishida kunduzi harorat 7-10 darajagacha pasayadi.",
+      "category": "Hot News"
+    },
+    {
+      "id": "3b278eb3-9b14-42e6-8e7c-ad3279f491ef",
+      "name": "Shavkat Mirziyoyev Erdo‘g‘anni Yangi O‘zbekiston bog‘iga olib bordi",
+      "description": "Avval xabar berganimizdek, Turkiya Respublikasi Prezidenti Rajab Toyib Erdo‘g‘an rasmiy tashrif bilan O‘zbekistonga keldi. Turkiya rahbari va uning rafiqasi Emina Erdo‘g‘anni O‘zbekiston Respublikasi Prezidenti Shavkat Mirziyoyev birinchi xonim Ziroat Mirziyoyeva bilan Islom Karimov nomidagi Toshkent xalqaro aeroportida kutib oldi. ",
+      "category": "Hot News"
+    },
+    {
+      "id": "56685080-a3f4-4b45-899f-3aa0673f6725",
+      "name": "Putin Germaniya va Italiya rahbarlariga gazni nega rublda sotmoqchiligini tushuntirdi",
+      "description": "Eslatib o‘tamiz, joriy yilning 23 mart kuni Rossiya Prezidenti Vladimir Putin hukumat va Rossiya Federatsiyasi Markaziy bankiga Rossiya gazining Yevropa davlatlariga yetkazib berilishi uchun to‘lovlarni rublga o‘tkazish bo‘yicha topshiriq berdi. Bunga G‘arb davlatlarining Ukrainadagi urush ortidan Moskvaga qarshi joriy qilgan sanksiyalari sabab bo‘ldi.\n\nShundan so‘ng, Germaniya kansleri Olaf Shols ham Germaniya gazni rublda sotib olmasligini e’lon qildi. Uning ortidan Fransiya Prezidenti Emmanuel Makron ham rus gazini rubldan sotib olmasligini aytdi.",
+      "category": "All"
+    },
+    {
+      "id": "abb56a83-8e35-4390-95c6-c46b2665514c",
+      "name": "G‘arb Ukrainani ikkinchi Afg‘onistonga aylantirmoqchi – Lavrov ",
+      "description": "Ma’lumot uchun, so‘nggi asrlarda o‘z davrining global va mintaqaviy kuchlari Afg‘onistonni qo‘lga kiritish uchun tinimsiz geosiyosiy kurash olib bordi. Ammo hech bir kuchli davlat bu mintaqada mutloq ustunlikka  ega bo‘lgan emas. Uzoq yillar davomida Afg‘onistonda harbiy amaliyotlar olib borgan AQSH ham buning uddasidan chiqolmadi. Shuning uchun, Afg‘onistonni ichki va tashqi siyosiy kuchlar manfaatlari to‘qnashadigan va hech biri mutlaq ustunlikka erisholmaydigan geosiyosiy maydon deb atashadi",
+      "category": ""
     }
-
   ],
-  "filters": ["all", "hot", "sport", "world"]
+  "filters": [
+    {
+      "name": "All",
+      "label": "All",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "Hot News",
+      "label": "Hot News",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "Sport News",
+      "label": "Sport News",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "World News",
+      "label": "World News",
+      "className": "btn-outline-dark"
+    }
+  ]
 }
